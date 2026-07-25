@@ -62,7 +62,7 @@
   "SNR-ARMANDO-011": {
     "name": "ARMANDO GONZÁLEZ",
     "entries": 1,
-    "used": false,
-    "usedAt": null
+    "used": true,
+    "usedAt": "2026-07-25T00:13:03.662Z"
   }
 }
