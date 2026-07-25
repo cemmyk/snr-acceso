@@ -1,0 +1,68 @@
+{
+  "SNR-LUIS-001": {
+    "name": "LUIS",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-ORLANDO-002": {
+    "name": "ORLANDO",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-MARTHUS-003": {
+    "name": "MARTHUS",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-AGUILAR-004": {
+    "name": "AGUILAR",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-ABHAY-005": {
+    "name": "ABHAY",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-KEVIN-006": {
+    "name": "KEVIN",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-LEIVA-007": {
+    "name": "LEIVA",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-ALFARO-008": {
+    "name": "ALFARO",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-EFREN-009": {
+    "name": "EFRÉN BOLAÑOS",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-BALTA-010": {
+    "name": "BALTA",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  },
+  "SNR-ARMANDO-011": {
+    "name": "ARMANDO GONZÁLEZ",
+    "entries": 1,
+    "used": false,
+    "usedAt": null
+  }
+}
